@@ -14,7 +14,7 @@ All elements of this project were compiled using **QGIS 3.40.11 “Bratislava.�
 - **National Elevation dataset:** Copernicus GLO-30 (TIFF format)  
   - [USGS download](https://apps.nationalmap.gov/downloader/)
 
-  **Fort Coordinate sources**   
+- **Fort Coordinate sources**   
   - Rhode Island Historical Society; Battle of Rhode Island Association, “Butts Hill Fort Restoration Project,” battleofrhodeisland.org (accessed 2025)
   - Newport Historical Society, “Green End Fort,” newporthistory.org/properties/green-end-fort; USGS Newport 7.5’ topographic quadrangle
   - Battle of Rhode Island Association, “Fortifications of Aquidneck Island,” battleofrhodeisland.org/fortifications
