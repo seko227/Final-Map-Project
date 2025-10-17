@@ -49,4 +49,4 @@ Completing this project provided me with an understanding of how to integrate di
 
 ### Final Project Link
 
-Please view the [final map online](web/index.html). 
+Please view the [final map online](index.html). 
