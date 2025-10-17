@@ -38,7 +38,7 @@ All elements of this project were compiled using **QGIS 3.40.11 â€œBratislava.â€
 
 ## View the Map
 - [View Web Map on GitHub Pages](https://seko227.github.io/Final-Map-Project/)  
-- [Download High-Resolution Map (2000 px PNG)](images/Aquidneck Island Forts.png)
+- [Download high-resolution map (8000 px PNG)](images/Aquidneck%20Island%20Forts.png)
 
 ## Software
 - QGIS 3.40.11 
@@ -49,4 +49,4 @@ Completing this project provided me with an understanding of how to integrate di
 
 ### Final Project Link
 
-Please view the [final map online](https://github.com/seko227/Final-Map-Project). 
+Please view the [final map online](web/index.html). 
